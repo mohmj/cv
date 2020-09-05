@@ -1,0 +1,39 @@
+body{
+padding: 20px;
+margin: 0px;
+background: #e0ece4;
+text-align: center;
+}
+
+
+
+#personal_photo{
+
+}
+
+table{
+  margin: auto;
+}
+
+.personal_information{
+  display: inline-block;
+}
+
+.skills{
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+#img_left{
+  width: 200px;
+  right: 200px;
+  float: left;
+  padding-right: 30px;
+}
+
+#img_right{
+  width: 200px;
+  right: 200px;
+  float: right;
+  padding-left: 30px
+}
